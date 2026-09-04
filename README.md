@@ -1,6 +1,7 @@
 <img src="Github_Profile_Header_Banner.png" width="100%" alt="Fadil Ahmed Data & AI Banner">
 
-<h1 align="center">Hi 👋, I'm Fadil Ahmed</h1>
+<h1 align="center">Hey,
+  I'm Fadil Ahmed</h1>
 <h3 align="center">A Data Geek</h3>
 
 - 📫 How to reach me **fadilahmed.mitblr@gmail.com**
