@@ -14,9 +14,6 @@
 
 **Data Scientist / Data Engineer** — I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
 
-I'm just
-Building the ships, then sailing the sea of numbers to find hidden truths.
-
 I got my hands dirty into the data related stuff, it is really fun to connect multiple data tools.
 
 ## **Let's Connect**
@@ -26,18 +23,6 @@ I got my hands dirty into the data related stuff, it is really fun to connect mu
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/fadilahmed96)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/fail_guy)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/fadilahmed_96)
-
----
-
-## Featured Work
-
-<!-- Swap in your 3-4 strongest repos. Lead with impact/scale, not tooling. -->
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project Name](link)** | One line on the problem and the outcome — e.g. "Streaming pipeline processing 2M events/day with sub-minute latency." | Kafka · Spark · Airflow |
-| **[Project Name](link)** | e.g. "Demand forecasting model that cut inventory error by 18%." | Python · XGBoost · MLflow |
-| **[Project Name](link)** | e.g. "End-to-end RAG system over 50k internal documents." | LangChain · FAISS · FastAPI |
 
 ---
 
@@ -84,15 +69,6 @@ I got my hands dirty into the data related stuff, it is really fun to connect mu
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
-
-## Writing & Notebooks
-
-<!-- Optional but high-signal for data roles. Delete if you don't have these yet. -->
-- [Notebook or blog post title](link) — one line on what it covers
-- [Notebook or blog post title](link) — one line on what it covers
-
----
-
 <div align="center">
 
 <!-- Replace YOUR_USERNAME with your actual GitHub handle in all three URLs below. -->
