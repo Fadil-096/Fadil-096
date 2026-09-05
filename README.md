@@ -1,8 +1,8 @@
 <img src="./Github_Profile_Header_Banner.png" width="100%" alt="Fadil Ahmed — Data & AI" />
 
-# Fadil Ahmed
+# Hey Visitor, 
 
-**Data Engineer / Data Scientist** — I build pipelines that don't break and models that actually ship.
+**Data Scientist / Data Engineer** — I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
 
 <!-- Replace the two lines below with your real specifics. This is the part recruiters read. -->
 Currently working on `<what you're building — e.g. large-scale ETL on AWS, forecasting models, LLM apps>` at `<Company>`.
