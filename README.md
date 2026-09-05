@@ -10,7 +10,7 @@
 
 </div>
 
-# <span style="color:#FF4B33">Hey</span>! Visitor,
+![Hey Visitor](https://img.shields.io/badge/Hey_Visitor-FF4B33?style=for-the-badge&labelColor=0D1117)
 
 **Data Scientist / Data Engineer** — I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
 
