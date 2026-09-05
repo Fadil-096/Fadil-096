@@ -8,10 +8,9 @@
 Currently working on `<what you're building — e.g. large-scale ETL on AWS, forecasting models, LLM apps>` at `<Company>`.
 Interested in distributed data processing, ML in production, and making analytics fast enough to be useful.
 
-📍 Bengaluru, India &nbsp;·&nbsp; 📫 [fadilahmed.mitblr@gmail.com](mailto:fadilahmed.mitblr@gmail.com)
+## **Let's Connect**
 
-## **Connect**
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fadilahmed.mitblr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadil-ahmed/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/fadilahmed96)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/fail_guy)
