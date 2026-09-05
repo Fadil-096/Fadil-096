@@ -1,12 +1,36 @@
 <img src="./Github_Profile_Header_Banner.png" width="100%" alt="Fadil Ahmed — Data & AI" />
+class FadilAhmed:
+    def __init__(self):
+        self.name        = "Fadil Ahmed"
+        self.tagline     = "DATA & AI"
+        self.education   = ["MIT Bengaluru — B.Tech CSE (CGPA: X.XX)"]
+        self.role        = "Final-year student | Data Engineering & Analytics"
+        self.stack       = ["Python", "SQL", "Spark", "Airflow",
+                            "AWS", "Docker", "PyTorch", "Power BI"]
+        self.interests   = ["Data Engineering", "Machine Learning",
+                            "Analytics & Visualization", "MLOps"]
+        self.editor      = "VS Code"
 
+    def currently(self):
+        return {
+            "learning":  "Distributed processing with Spark & Airflow",
+            "building":  "End-to-end ETL pipelines on AWS",
+            "exploring": "LLM-powered analytics and RAG systems"
+        }
+
+    def philosophy(self):
+        return "Charting the sea of numbers — and building the ships that cross it."
+
+    def fun_fact(self):
+        return "I'd rather debug a broken pipeline than sit through a status meeting."
 # Hey Visitor, 
 
 **Data Scientist / Data Engineer** — I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
 
-<!-- Replace the two lines below with your real specifics. This is the part recruiters read. -->
-Currently working on `<what you're building — e.g. large-scale ETL on AWS, forecasting models, LLM apps>` at `<Company>`.
-Interested in distributed data processing, ML in production, and making analytics fast enough to be useful.
+I'm just
+Building the ships, then sailing the sea of numbers to find hidden truths.
+
+I got my hands dirty into the data related stuff, it is really fun to connect multiple data tools.
 
 ## **Let's Connect**
 
