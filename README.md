@@ -1,4 +1,6 @@
 <img src="./Github_Profile_Header_Banner.png" width="100%" alt="Fadil Ahmed — Data & AI" />
+
+```python
 class FadilAhmed:
     def __init__(self):
         self.name        = "Fadil Ahmed"
@@ -23,6 +25,8 @@ class FadilAhmed:
 
     def fun_fact(self):
         return "I'd rather debug a broken pipeline than sit through a status meeting."
+```
+
 # Hey Visitor, 
 
 **Data Scientist / Data Engineer** — I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
