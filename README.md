@@ -1,6 +1,14 @@
+<div align="center">
+
 <img src="./Github_Profile_Header_Banner.png" width="100%" alt="Fadil Ahmed — Data & AI" />
 
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=600&lines=ML+Engineer+%7C+Computer+Vision;Full+Stack+Developer+%7C+3D+Artist;AI+%26+Generative+Systems+Builder;IIT+Madras+%7C+MIT+Bengaluru)](https://git.io/typing-svg)
+
+</div>
 
 # Hey Visitor, 
 
