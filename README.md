@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Github_Profile_Header_Banner.png" width="100%" alt="Fadil Ahmed — Data & AI" />
+<img src="./Fadil-banner.png" width="100%" alt="Fadil Ahmed — Data & AI" />
 
 </div>
 
