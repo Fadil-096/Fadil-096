@@ -12,9 +12,9 @@
 
 ## Hey Visitor!,
 
-**Data Scientist / Data Engineer** — I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
+I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
 
-I got my hands dirty into the data related stuff, it is really fun to connect multiple data tools.
+"I got my hands dirty into the data related stuff, it is really fun to connect multiple data tools."
 
 <div align="center">
   
