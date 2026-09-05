@@ -10,6 +10,8 @@ Interested in distributed data processing, ML in production, and making analytic
 
 📍 Bengaluru, India &nbsp;·&nbsp; 📫 [fadilahmed.mitblr@gmail.com](mailto:fadilahmed.mitblr@gmail.com)
 
+## **Connect**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadil-ahmed/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/fadilahmed96)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/fail_guy)
