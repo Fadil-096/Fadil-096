@@ -12,9 +12,7 @@
 
 ## Hey Visitor!,
 
-I work across the full data stack: building the pipelines,<br>
-modelling on top of them,<br>
-and turning the results into decisions people act on.
+I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
 
 <div align="center">
 
