@@ -10,11 +10,13 @@
 
 </div>
 
-![Hey Visitor](https://img.shields.io/badge/Hey_Visitor-FF4B33?style=for-the-badge&labelColor=0D1117)
+## Hey Visitor!,
 
 **Data Scientist / Data Engineer** — I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
 
 I got my hands dirty into the data related stuff, it is really fun to connect multiple data tools.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=22&duration=3000&pause=1500&color=D4D8DC&center=true&vCenter=true&width=800&lines=You+can+scroll+down+%26;check+out+what+I+do)](https://git.io/typing-svg)
 
 ## **Let's Connect**
 
