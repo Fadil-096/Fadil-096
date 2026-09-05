@@ -74,10 +74,3 @@ I work across the full data stack: building the pipelines, modelling on top of t
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
----
-
-<div align="center">
-
-**[Portfolio](https://fadil-portfolio-one.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/fadil-ahmed/)** · **[Email](mailto:fadilahmed.mitblr@gmail.com)**
-
-</div>
