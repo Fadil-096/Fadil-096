@@ -23,6 +23,7 @@ I work across the full data stack: building the pipelines, modelling on top of t
 ## **Let's Connect**
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fadilahmed.mitblr@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://fadil-portfolio-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadil-ahmed/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/fadilahmed96)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/fail_guy)
@@ -75,9 +76,7 @@ I work across the full data stack: building the pipelines, modelling on top of t
 ---
 <div align="center">
 
-<!-- Replace YOUR_USERNAME with your actual GitHub handle in all three URLs below. -->
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true&theme=graywhite" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=graywhite" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=fadil-096&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-096&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
 </div>
