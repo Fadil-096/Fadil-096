@@ -10,7 +10,7 @@
 
 </div>
 
-# Hey Visitor, 
+# <span style="color:#FF4B33">Hey</span>! Visitor,
 
 **Data Scientist / Data Engineer** — I work across the full data stack: building the pipelines, modelling on top of them, and turning the results into decisions people act on.
 
