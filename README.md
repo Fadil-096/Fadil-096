@@ -74,9 +74,10 @@ I work across the full data stack: building the pipelines, modelling on top of t
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
+---
+
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=fadil-096&show_icons=true&hide_border=true&hide_title=true&theme=transparent" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-096&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+**[Portfolio](https://fadil-portfolio-one.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/fadil-ahmed/)** · **[Email](mailto:fadilahmed.mitblr@gmail.com)**
 
 </div>
