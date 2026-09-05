@@ -16,7 +16,11 @@
 
 I got my hands dirty into the data related stuff, it is really fun to connect multiple data tools.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=22&duration=3000&pause=1500&color=D4D8DC&center=true&vCenter=true&width=800&lines=You+can+scroll+down+%26;check+out+what+I+do)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=22&duration=3000&pause=1000&color=D4D8DC&center=true&vCenter=true&width=800&lines=You+can+scroll+down+%26+check+out+what+i+do)](https://git.io/typing-svg)
+
+</div>
 
 ## **Let's Connect**
 
